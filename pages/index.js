@@ -19,6 +19,7 @@ export default function Home() {
     <h1>Welcome to App</h1>
   
     <div className="max-w-screen-xl mx-auto">
+    
        {/*Header */}
        <Header />
        {/*Messages*/}

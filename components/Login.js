@@ -6,12 +6,12 @@ function Login() {
 
     return (
         <div className="bg-black relative">
-            <h1>login</h1>
+            
             <div className="flex flex-col absolute z-50 h-4/6 items-center justify-center w-full space-y-4">
                 {/* papafam logo*/ }
                 <Image 
-                className="object-cover rounded-full"
-                    src="https://links.papareact.com/3pi"
+                className="object-cover rounded-full opacity-90"
+                    src="https://www.metaverse.fm/wp-content/uploads/2021/07/Metaverse-square-logo.png"
                     height={200}
                     width={200}
                 />
@@ -19,14 +19,14 @@ function Login() {
                 {/* login button*/ }
                 <button 
                 onClick={authenticate}
-                className="bg-yellow-500 rounded-lg p-5 font-bold animate-pulse">
+                className="bg-gradient-to-b from-pink-700 to-fuchsia-900 rounded-lg p-5 font-bold animate-pulse">
                 Login to the METAVERSE
                 </button>
             </div>
             <div className="w-full h-screen">
                 {/* background img*/ }
                 <Image
-                src="https://links.papareact.com/55n"
+                src="https://www.howtogeek.com/wp-content/uploads/2021/08/shutterstock_739699258.png?height=200p&trim=2,2,2,2&crop=16:9"
                 layout="fill" 
                 objectFit="cover"    
                 />
