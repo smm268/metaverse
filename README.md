@@ -40,16 +40,10 @@
     <li>Scalable and maintainable code structure</li>
   </ul>
 
-  <h2>🚀 Future Improvements</h2>
-  <ul>
-    <li>3D environment integration (Three.js)</li>
-    <li>User authentication</li>
-    <li>Real-time interaction features</li>
-    <li>VR/AR support</li>
-  </ul>
+
 
   <h2>📸 Screenshots</h2>
-  <p>Add screenshots here</p>
+ 
 
   <h2>👨‍💻 About Me</h2>
   <p>
